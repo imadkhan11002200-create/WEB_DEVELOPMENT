@@ -1,0 +1,21 @@
+* {
+    margin: o;
+    padding: o;
+
+}
+
+body {
+    background-color: #0A2947;
+    color: #D3D4C0;
+}
+
+li {
+    color: #F3E4C9;
+}
+a {
+    color: #D3D4C0;
+    text-decoration: none;
+} 
+nav {
+    background-color: black;
+}
